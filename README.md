@@ -7,7 +7,6 @@ This repository contains a simple, automated Google Colab notebook for upscaling
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1uX7r996HPqvdBjE5XncqGA5NUBcONIcZ?usp=sharing)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/RelayVSR-in-Google-Colab/blob/main/RelayVSR_CoinNoin.ipynb)
-
 [![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/KSNAYSNBUX62C)
 
 ---
