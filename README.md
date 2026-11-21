@@ -2,7 +2,7 @@
 
 This repository contains a simple, automated Google Colab notebook for upscaling videos with **RelayVSR** (x2 and x4). Powered by a ComfyUI backend with `int8_convrot` quantized weights and Flash VAE, it enhances video resolution in just **1 step** while preserving original audio and frame rate—all running for free on a Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=koUdVO6yNZs)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1uX7r996HPqvdBjE5XncqGA5NUBcONIcZ?usp=sharing)
 
